@@ -4,7 +4,7 @@ title = 'Bible Delight'
 theme = "Archie"
 
 
-pygmentscodefencesguesssyntax = true
+
 [params]
 	mode="auto"
 	useCDN=false
