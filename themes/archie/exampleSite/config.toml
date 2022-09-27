@@ -1,14 +1,15 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Bible Delight'
-theme = "Archie"
-
-
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Archie"
+theme="archie"
+copyright = "© Athul"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "whose delight is in the law of the LORD” (Psalm 1:2)"
+	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
 
 [[params.social]]
 name = "GitHub"
@@ -43,6 +44,3 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
-
-
-
