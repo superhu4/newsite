@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bible Delight</title>
-    <link>http://example.org/tags/</link>
+    <link>https://magnificent-blini-69ce47.netlify.app/tags/</link>
     <description>Recent content in Tags on Bible Delight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Sep 2022 21:10:24 -0400</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 21:10:24 -0400</lastBuildDate><atom:link href="https://magnificent-blini-69ce47.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>personal</title>
-      <link>http://example.org/tags/personal/</link>
+      <link>https://magnificent-blini-69ce47.netlify.app/tags/personal/</link>
       <pubDate>Mon, 26 Sep 2022 21:10:24 -0400</pubDate>
       
-      <guid>http://example.org/tags/personal/</guid>
+      <guid>https://magnificent-blini-69ce47.netlify.app/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>update</title>
-      <link>http://example.org/tags/update/</link>
+      <link>https://magnificent-blini-69ce47.netlify.app/tags/update/</link>
       <pubDate>Mon, 26 Sep 2022 21:08:30 -0400</pubDate>
       
-      <guid>http://example.org/tags/update/</guid>
+      <guid>https://magnificent-blini-69ce47.netlify.app/tags/update/</guid>
       <description></description>
     </item>
     
